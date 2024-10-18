@@ -7,7 +7,7 @@ This is the Coin Converter project. A simple and intuitive application to conver
 - **User-friendly UI**: A clean, responsive, and interactive interface for easy currency conversion.
 - **Conversion Details**: Displays the converted value.
 - **Search Functionality**: Allows users to quickly select currencies from various countries for conversion.
-- **Real-Time Data**: Fetches and displays up-to-date exchange rate information using API requests.
+- **Data**: Fetches and displays up-to-date exchange rate information using API requests.
 - **Mobile-Friendly**: Fully responsive design for both desktop and mobile views.
 
 ## Tech Stack
